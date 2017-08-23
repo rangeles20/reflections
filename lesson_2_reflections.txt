@@ -4,3 +4,10 @@ How is the staging area different from the working directory and the repository?
 en donde se ponen los archivos para realizarse un commit, es para llevar un orden
 How can you use the staging area to make sure you have one commit per logical change?
 agregando solo un archivo al área de staging 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+agregar nuevas funcionalidades, arreglar un bug, probar cosas o librerias
+How do the diagrams help you visualize the branch structure?
+Te ayuda a visualizar las diferentes ramas de la documentación
+fa4c6bade4970c282b3870ad16f1bde8164663a9
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+tienes el ultimo codigo resultante de ambas ramas
