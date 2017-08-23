@@ -2,3 +2,5 @@ What happens when you initialize a repository? Why do you need to do it?
 se crea un directorio oculto .git, se necesita para guardar los metadatos e historia de los archivos
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 en donde se ponen los archivos para realizarse un commit, es para llevar un orden
+How can you use the staging area to make sure you have one commit per logical change?
+agregando solo un archivo al área de staging 
